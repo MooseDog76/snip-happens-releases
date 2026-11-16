@@ -5,3 +5,5 @@ released version of Snip Happens. There is no source code here - the app
 itself lives in a separate, private repository.
 
 Installed copies of Snip Happens check here automatically for updates.
+
+Written with the help of an AI coding assistant. Designed, directed and checked by Ross O'Leary.
